@@ -508,7 +508,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/qNpAxsfos4UHKwVmbQxQzE77G5gJk1Y95Y3VqWzpump",
+                  href: "https://pump.fun/Pbm4BLfBEVz8RfF7UWF8yRJq4KVZNM7kpmLrNRipump",
                 },
                 react.createElement("span", { className: "footer-buy" }, "buy")
               ),
@@ -534,7 +534,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/qNpAxsfos4UHKwVmbQxQzE77G5gJk1Y95Y3VqWzpump",
+                  href: "https://pump.fun/Pbm4BLfBEVz8RfF7UWF8yRJq4KVZNM7kpmLrNRipump",
                   onClick: smooth,
                   className: "footer-link",
                 },
@@ -564,7 +564,7 @@ var deferred,
               { className: "footer-socials-item" },
               react.createElement(
                 "a",
-                { href: "https://t.me/catdogsolanalol" },
+                { href: "https://t.me/catdogctofun" },
                 react.createElement("img", { src: "../assets/images/soc2.png" })
               )
             ),
@@ -574,7 +574,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/qNpAxsfos4UHKwVmbQxQzE77G5gJk1Y95Y3VqWzpump",
+                  href: "https://pump.fun/Pbm4BLfBEVz8RfF7UWF8yRJq4KVZNM7kpmLrNRipump",
                 },
                 react.createElement("img", { 
                   src: "../assets/images/soc3.png", 
@@ -654,7 +654,7 @@ var deferred,
                 "a",
                 {
                   className: "header-socs__item",
-                  href: "https://t.me/catdogsolanalol",
+                  href: "https://t.me/catdogctofun",
                 },
                 react.createElement("img", {
                   src: "../assets/images/headerTg.png",
@@ -746,11 +746,11 @@ var deferred,
               }),
               react.createElement(
                 "a",
-                { href: "https://t.me/catdogsolanalol" },
+                { href: "https://t.me/catdogctofun" },
                 react.createElement("img", {
                   className: "socsImg",
                   src: "../assets/images/headerTg.png",
-                  href: "https://t.me/catdogsolanalol",
+                  href: "https://t.me/catdogctofun",
                 })
               ),
               react.createElement(
@@ -874,7 +874,7 @@ var deferred,
               react.createElement(
                 "span",
                 { className: "contractValue" },
-                "qNpAxsfos4UHKwVmbQxQzE77G5gJk1Y95Y3VqWzpump"
+                "Pbm4BLfBEVz8RfF7UWF8yRJq4KVZNM7kpmLrNRipump"
               )
             )
           )

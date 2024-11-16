@@ -392,7 +392,7 @@ var deferred,
                     react.createElement(
                       "div",
                       { className: "comixItemHeader hoverAnim" },
-                      "catdog comix"
+                      "CADOGE comix"
                     ),
                     react.createElement(
                       "div",
@@ -508,7 +508,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/Pbm4BLfBEVz8RfF7UWF8yRJq4KVZNM7kpmLrNRipump",
+                  href: "https://pump.fun/KGCzq1skrybN1Sxxtv36z6DW2enJieu2oM8k3QSpump",
                 },
                 react.createElement("span", { className: "footer-buy" }, "buy")
               ),
@@ -534,7 +534,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/Pbm4BLfBEVz8RfF7UWF8yRJq4KVZNM7kpmLrNRipump",
+                  href: "https://pump.fun/KGCzq1skrybN1Sxxtv36z6DW2enJieu2oM8k3QSpump",
                   onClick: smooth,
                   className: "footer-link",
                 },
@@ -544,7 +544,7 @@ var deferred,
             react.createElement(
               "div",
               { className: "footerLeftText" },
-              "Not affiliated with the CatDog cartoon, rights belong to Nickelodeon."
+              "Not affiliated with the CADOGE cartoon, rights belong to Nickelodeon."
             )
           ),
           react.createElement(
@@ -555,7 +555,7 @@ var deferred,
               { className: "footer-socials-item" },
               react.createElement(
                 "a",
-                { href: "https://x.com/catdogdotfun" },
+                { href: "https://x.com/cadogesol" },
                 react.createElement("img", { src: "../assets/images/soc1.png" })
               )
             ),
@@ -564,7 +564,7 @@ var deferred,
               { className: "footer-socials-item" },
               react.createElement(
                 "a",
-                { href: "https://t.me/catdogctofun" },
+                { href: "https://t.me/cadogesol" },
                 react.createElement("img", { src: "../assets/images/soc2.png" })
               )
             ),
@@ -574,7 +574,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/Pbm4BLfBEVz8RfF7UWF8yRJq4KVZNM7kpmLrNRipump",
+                  href: "https://pump.fun/KGCzq1skrybN1Sxxtv36z6DW2enJieu2oM8k3QSpump",
                 },
                 react.createElement("img", { 
                   src: "../assets/images/soc3.png", 
@@ -654,7 +654,7 @@ var deferred,
                 "a",
                 {
                   className: "header-socs__item",
-                  href: "https://t.me/catdogctofun",
+                  href: "https://t.me/cadogesol",
                 },
                 react.createElement("img", {
                   src: "../assets/images/headerTg.png",
@@ -664,7 +664,7 @@ var deferred,
                 "a",
                 {
                   className: "header-socs__item",
-                  href: "https://x.com/catdogdotfun",
+                  href: "https://x.com/cadogesol",
                 },
                 react.createElement("img", {
                   src: "../assets/images/headerTwitter.png",
@@ -746,16 +746,16 @@ var deferred,
               }),
               react.createElement(
                 "a",
-                { href: "https://t.me/catdogctofun" },
+                { href: "https://t.me/cadogesol" },
                 react.createElement("img", {
                   className: "socsImg",
                   src: "../assets/images/headerTg.png",
-                  href: "https://t.me/catdogctofun",
+                  href: "https://t.me/cadogesol",
                 })
               ),
               react.createElement(
                 "a",
-                { href: "https://x.com/catdogdotfun" },
+                { href: "https://x.com/cadogesol" },
                 react.createElement("img", {
                   className: "socsImg",
                   src: "../assets/images/headerTwitter.png",
@@ -866,7 +866,7 @@ var deferred,
             react.createElement(
               "span",
               { className: "contractTitle" },
-              "$catdog contract"
+              "$CADOGE contract"
             ),
             react.createElement(
               "div",
@@ -874,7 +874,7 @@ var deferred,
               react.createElement(
                 "span",
                 { className: "contractValue" },
-                "Pbm4BLfBEVz8RfF7UWF8yRJq4KVZNM7kpmLrNRipump"
+                "KGCzq1skrybN1Sxxtv36z6DW2enJieu2oM8k3QSpump"
               )
             )
           )
